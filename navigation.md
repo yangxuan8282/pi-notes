@@ -6,4 +6,4 @@
 
 [Emoji Alias](emoji_alias.md)
 
-[Docker Recipes](https://github.com/yangxuan8282/docker-recipes)
+[Docker Compose](https://github.com/yangxuan8282/docker-recipes)
