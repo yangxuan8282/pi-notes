@@ -1,33 +1,35 @@
-NLFS ( Not Linux From Scratch )
+Pi Planet
 ===
 
-some app installation recipes for raspberry pi, cross distro, and `systemd` is prefered
+Some apps installation recipes for Raspberry Pi (use binary files in most cases), cross distro, and `systemd` is prefered
 
-programming
+This page is host on GitHub. https://github.com/yangxuan8282/piplanet
+
+Programming
 ---
 
-* [node](node.md)
-* [golang](golang.md)
+* [Node](node.md)
+* [Golang](golang.md)
 * [jdk](jdk.md)
 
-blog
+Blog
 ---
 
-* [ghost](ghost.md) 
-* [typecho](typecho.md)
-* [zblog](zblog.md)
+* [Ghost](ghost.md) 
+* [Typecho](typecho.md)
+* [Zblog](zblog.md)
 
-file manage
+File Management
 ---
 
-* [seafile](seafile.md)
+* [Seafile](seafile.md)
 * ([Resilio Sync](btsync.md))
-* [syncthing](syncthing.md)
-* [minio](minio.md)
+* [Syncthing](syncthing.md)
+* [Minio](minio.md)
 * [h5ai](h5ai.md)
-* [kodexplorer](kodexplorer.md)
+* [KODExplorer](kodexplorer.md)
 
-download
+Download
 ---
 
 * [aria2](aria2.md)
@@ -35,7 +37,7 @@ download
  * [AriaNg](ariang.md)
  * [YAAW](yaaw.md)
 
-video
+Video
 ---
 
 * [FFmpeg](ffmpeg.md)
@@ -43,41 +45,43 @@ video
 note
 ---
 
-* [leanote](leanote.md)
+* [Leanote](leanote.md)
 
-dashboard
+System Utilities
 ---
 
 * [netdata](netdata.md)
+* [htop]
+ * [htop-temperature](htop-temperature.md)
 
-tunnel
+Tunnel
 ---
 
 * [frp](frp.md)
 * [kcptun](kcptun.md)
-* [dog-tunnel lite](dog-tunnel.md)
+* [Dog Tunnel lite](dog-tunnel.md)
 
-proxy
+Proxy
 ---
 
 * shadowsocks
  * [shadowsocks-go](ss-go.md) 
 
-web/wiki
+Web/Wiki
 ---
 
-* [mdwiki](mdwiki.md)
+* [MDwiki](mdwiki.md)
 
-web server
+Web server
 ---
 
-* [python built-in server](python_built-in_server.md)
-* [node http-server](node_http-server.md)
-* [php built-in server](php_built-in_server.md)
-* [caddy](caddy.md)
-* [ran](ran.md)
+* [Python built-in server](python_built-in_server.md)
+* [Node http-server](node_http-server.md)
+* [PHP built-in server](php_built-in_server.md)
+* [Caddy](caddy.md)
+* [Ran](ran.md)
 
-container
+Container
 ---
 
 * [Docker](docker.md)
