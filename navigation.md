@@ -1,6 +1,6 @@
-# Pi Planet
+# Pi Notes
 
-[Table](index.md)
+[Table of content](index.md)
 
 [RPi3 OS list](pi3_os_list.md)
 

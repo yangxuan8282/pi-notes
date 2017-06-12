@@ -1,21 +1,21 @@
-Pi Planet
+Pi Notes
 ===
 
 Some apps installation recipes for Raspberry Pi (use binary files in most cases), cross distro, and `systemd` is prefered
 
-This page is host on GitHub. https://github.com/yangxuan8282/piplanet
+This page is host on GitHub. https://github.com/yangxuan8282/pi-notes
 
 Programming
 ---
 
 * [Node](node.md)
 * [Golang](golang.md)
-* [jdk](jdk.md)
+* [JDK](jdk.md)
 
 Blog
 ---
 
-* [Ghost](ghost.md) 
+* [Ghost](ghost.md)
 * [Typecho](typecho.md)
 * [Zblog](zblog.md)
 
@@ -23,7 +23,6 @@ File Management
 ---
 
 * [Seafile](seafile.md)
-* ([Resilio Sync](btsync.md))
 * [Syncthing](syncthing.md)
 * [Minio](minio.md)
 * [h5ai](h5ai.md)
@@ -42,7 +41,7 @@ Video
 
 * [FFmpeg](ffmpeg.md)
 
-note
+Note
 ---
 
 * [Leanote](leanote.md)
@@ -65,7 +64,7 @@ Proxy
 ---
 
 * shadowsocks
- * [shadowsocks-go](ss-go.md) 
+ * [shadowsocks-go](ss-go.md)
 
 Web/Wiki
 ---
