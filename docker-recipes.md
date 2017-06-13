@@ -3,7 +3,7 @@ docker recipes list
 
 |app|armhf image|amd64 image|
 |-|-|-|
-|ngix-proxy|yangxuan8282/rpi-nginx-proxy, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/armhf/nginx-proxy/docker-compose.yml)|jwilder/nginx-proxy, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/amd64/nginx-proxy/docker-compose.yml)|
+|nginx-proxy|yangxuan8282/rpi-nginx-proxy, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/armhf/nginx-proxy/docker-compose.yml)|jwilder/nginx-proxy, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/amd64/nginx-proxy/docker-compose.yml)|
 |portainer|portainer/portainer, [docker compose](https://github.com/yangxuan8282/docker-recipes/tree/master/armhf/portainer)|portainer/portainer, [docker compose](https://github.com/yangxuan8282/docker-recipes/tree/master/amd64/portainer)|
 |ghost|alexellis2/ghost-on-docker, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/armhf/ghost/docker-compose.yml)|ghost, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/amd64/ghost/docker-compose.yml)|
 |tale|_|pipill/tale, [docker compose](https://github.com/yangxuan8282/docker-recipes/blob/master/amd64/tale/docker-compose.yml)|
